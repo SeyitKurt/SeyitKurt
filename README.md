@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyitkurt&show_icons=true&locale=en" alt="seyitkurt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seyitkurt&" alt="seyitkurt" /></p>
+
+
+![snake gif](https://github.com/SeyitKurt/SeyitKurt/blob/output/github-contribution-grid-snake.gif)
