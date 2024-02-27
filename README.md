@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Software Development Engineer</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **.NET**
 
 - 🌱 I’m currently learning **.NET, C#, SAP S4HANA**
 
